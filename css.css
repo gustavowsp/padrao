@@ -1,0 +1,14 @@
+#Caixa
+{
+    box-shadow: 10px 15px 20px 5px   rgba(0, 0, 0, 0.300);
+    transition: 1.5s;
+}
+#Caixa:hover
+{
+    box-shadow: 7px 12px 20px 20px   rgba(0, 0, 0, 0.300);
+    transition: 0.5s;
+}
+
+.navbar-nav a{
+    margin-right: 10px;
+}
